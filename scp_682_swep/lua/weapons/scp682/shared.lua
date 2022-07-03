@@ -1,7 +1,7 @@
 AddCSLuaFile("shared.lua")
 
 SWEP.PrintName = "SCP-682 SWEP"
-SWEP.Author = "Sharky"
+SWEP.Author = ""
 SWEP.Purpose = ""
 SWEP.Instructions = "Left click to attack, Right click to roar."
 
